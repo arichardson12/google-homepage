@@ -1,0 +1,1 @@
+Google Homepage Clone created as part of the Odin Project. This project is intended to demonstrate mastery of basic HTML & CSS.
