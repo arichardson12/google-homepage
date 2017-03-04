@@ -1,0 +1,174 @@
+* {
+	margin: 0px;
+	}
+
+@-ms-viewport{
+  width: device-width;
+}
+
+html, body {
+	height: 100%;
+	min-height: 100%;
+	}
+
+.page-wrap {
+	min-height: 100%;
+	margin: 0 auto -55px;
+	padding-top: 1px;
+	}
+
+.page-wrap:after {
+	content: "";
+	display: block;
+	}
+	
+nav {
+	font-size: 13px;
+	font-family: Futura, Arial, sans-serif;
+
+	}	
+
+nav ul {
+	list-style-type: none;
+	margin: 15px 35px 0 0;
+	}
+	
+nav li {
+	display: inline;
+	float: right;
+	
+	}
+
+nav a {
+	text-decoration: none;
+	color: #808080;
+	display: block;
+	padding: 5px 15px 6px 12px;
+	margin: 0 -5px;
+
+	}
+	
+nav a img {
+	width: 17px;
+	height: 17px;
+	margin: 0 15px 0 0;
+	}
+	
+.blue {
+	background-color: #4885ed;
+	font-size: 14px;
+	color: #fff;
+	border-radius: 2px;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	}
+
+img {
+	width: 270px;
+	height: 93px;
+	
+	}
+
+.logo {
+	text-align: center;
+	margin: 0 auto;
+	padding: 183px 0 20px;
+	
+	}
+
+	
+.searchbox {
+	text-align: center;
+	margin: 0 auto;
+	padding: 2px 0 5px 0;	
+
+	
+	}
+
+.textbox {
+	width: 480px;
+	height: 42px;
+	border: 1px solid #D3D3D3;
+	background-image: url("http://i.imgur.com/l5S4LZ2.png");
+	background-size: 25px 25px;
+	background-repeat: no-repeat;
+	background-position: 97% 50%;
+	-webkit-box-shadow: 0px 2px 4px #D3D3D3;
+       -moz-box-shadow: 0px 2px 4px #D3D3D3;
+            box-shadow: 0px 2px 4px #D3D3D3; 		
+
+	}
+	
+
+input[type="text"] {
+    font-size: 15.5px;
+}
+
+.button {
+	text-align: center;
+	margin: 0 auto;
+	}
+
+button {
+	background-color: #F0F0F0; 
+    border: none;
+    color: #707070;
+    padding: 9px 15px;
+    margin: 25px 3px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: bold;
+    border-radius: 2px;
+	}
+
+footer, .page-wrap:after {
+	height: 40px;
+	}
+
+footer {
+	font-size: small;
+	font-family: Futura, Arial, sans-serif;
+	background-color: #F0F0F0;
+
+	
+	
+	}	
+
+footer ul {
+	list-style-type: none;
+	margin: 15px 5px 0 -15px;
+	
+	}
+
+.left {
+	display: inline;
+	float: left;
+	
+	}
+
+.right {
+	display: inline;
+	float: right;
+	
+	}
+
+
+footer a {
+	text-decoration: none;
+	color: #808080;
+	display: block;
+	padding: 10px 35px 10px 5px;
+	margin: 0 -5px;
+
+	}
+
+
+
+
+
+
+
+
+
+
